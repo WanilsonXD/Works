@@ -9,10 +9,14 @@ const characters = [
   'estrela_cadente_02',
   'galaxia_01',
   'galaxia_02',
-  'meteoro_01',
   'meteoro_02',
+  'meteoro_03',
   'planeta_01',
   'planeta_02',
+  'cosmo_01',
+  'cosmo_02'
+  
+
 
 
 ];
